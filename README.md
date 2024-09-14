@@ -2,7 +2,11 @@
 
 A small PHP package that says "Hello".
 
+# Requirements
+
+PHP >=7.4
+
 ## Installation
 
 ```bash
-composer require your-vendor/my-package
+composer require test-package-ilya/otus-test-package
