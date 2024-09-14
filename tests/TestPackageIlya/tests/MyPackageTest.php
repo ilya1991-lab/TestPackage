@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Ilya\tests;
+namespace TestPackageIlya\tests;
 
-use Ilya\OtusTestPackage\MyPackage;
+use TestPackageIlya\OtusTestPackage\MyPackage;
 use PHPUnit\Framework\TestCase;
 
 class MyPackageTest extends TestCase

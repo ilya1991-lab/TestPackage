@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Ilya\OtusTestPackage;
+namespace TestPackageIlya\OtusTestPackage;
 
 class MyPackage
 {

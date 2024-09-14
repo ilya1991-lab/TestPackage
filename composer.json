@@ -1,5 +1,5 @@
 {
-    "name": "ilya/otus-test-package",
+    "name": "test-package-ilya/otus-test-package",
     "description": "Otus test package",
     "type": "library",
     "require": {
@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ilya\\OtusTestPackage\\": "src/"
+            "TestPackageIlya\\OtusTestPackage\\": "src/"
         }
     },
     "require-dev": {
