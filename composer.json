@@ -18,7 +18,5 @@
         {
             "name": "Ilya"
         }
-    ],
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    ]
 }
